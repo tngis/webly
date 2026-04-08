@@ -32,8 +32,9 @@ export function Navigation() {
       <div className="container-custom">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="font-display text-2xl font-bold gradient-text">
-            Portfolio
+          <Link href="/" className="font-display text-2xl font-bold gradient-text flex items-center">
+            <img src="/favicon.png" alt="Webly" className="w-8 h-8" />
+            <div className="text-2xl font-bold gradient-text ml-2">webly.mn</div>
           </Link>
 
           {/* Desktop Navigation */}

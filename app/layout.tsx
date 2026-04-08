@@ -9,9 +9,13 @@ import { Footer } from '@/components/layout/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Web Development Services | Professional Portfolio',
+  title: 'Вээблий.мн',
   description: 'Fast, affordable, quality web design and development services. 4+ years of experience building modern websites.',
   keywords: 'web development, web design, Next.js, React, portfolio',
+  icons: {
+    icon: '/favicon.png',
+    apple: '/favicon.png',
+  },
 }
 
 export default function RootLayout({
