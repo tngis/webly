@@ -1,0 +1,379 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "badge": "Premium Web Development",
+      "title": "Build Your Dream",
+      "titleHighlight": "Website",
+      "subtitle": "Transform your ideas into stunning, high-performance websites. From concept to launch, we deliver exceptional digital experiences.",
+      "cta": "Start Your Project",
+      "secondary": "View Our Work"
+    },
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "services": {
+      "badge": "What We Offer",
+      "title": "Our",
+      "titleHighlight": "Services",
+      "subtitle": "Comprehensive solutions for all your web development needs",
+      "landing": {
+        "title": "Landing Pages",
+        "description": "Convert visitors into customers with stunning single-page websites",
+        "cta": "Learn More"
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "description": "Full-featured online stores with payment integration",
+        "cta": "Learn More"
+      },
+      "custom": {
+        "title": "Custom Web Apps",
+        "description": "Tailored solutions built specifically for your business",
+        "cta": "Learn More"
+      },
+      "fullstack": {
+        "title": "Full-Stack",
+        "description": "Complete end-to-end development solutions",
+        "cta": "Learn More"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's create something amazing together",
+      "button": "Get in Touch"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our",
+      "titleHighlight": "Services",
+      "subtitle": "Comprehensive web solutions tailored to your needs. From simple landing pages to complex web applications."
+    },
+    "landing": {
+      "title": "Landing Pages",
+      "subtitle": "Perfect for startups & personal brands",
+      "description": "Single-page websites that convert visitors into customers. Optimized for speed and SEO.",
+      "features": {
+        "responsive": "Responsive design",
+        "seo": "SEO optimization",
+        "contact": "Contact form integration",
+        "social": "Social media links",
+        "fast": "Fast loading (< 2s)",
+        "mobile": "Mobile-first approach"
+      },
+      "pricing": "Starting at $500",
+      "timeline": "1-2 weeks",
+      "cta": "Get Started"
+    },
+    "ecommerce": {
+      "title": "E-commerce Websites",
+      "subtitle": "Sell products online effectively",
+      "description": "Full-featured online stores with payment integration, inventory management, and admin dashboard.",
+      "features": {
+        "catalog": "Product catalog",
+        "cart": "Shopping cart",
+        "payment": "Payment gateway integration",
+        "orders": "Order management",
+        "admin": "Admin dashboard",
+        "accounts": "Customer accounts"
+      },
+      "pricing": "Starting at $2,000",
+      "timeline": "4-6 weeks",
+      "cta": "Get Started"
+    },
+    "custom": {
+      "title": "Custom Web Applications",
+      "subtitle": "Tailored solutions for your business",
+      "description": "Bespoke web applications built from scratch to solve your unique business challenges.",
+      "features": {
+        "functionality": "Custom functionality",
+        "database": "Database design",
+        "api": "API development",
+        "auth": "User authentication",
+        "access": "Role-based access",
+        "integrations": "Third-party integrations"
+      },
+      "pricing": "Starting at $3,500",
+      "timeline": "6-12 weeks",
+      "cta": "Get Started"
+    },
+    "fullstack": {
+      "title": "Full-Stack Development",
+      "subtitle": "Complete end-to-end solutions",
+      "description": "Comprehensive web solutions including frontend, backend, database, and deployment.",
+      "features": {
+        "frontend": "Frontend development",
+        "backend": "Backend APIs",
+        "database": "Database architecture",
+        "cloud": "Cloud deployment",
+        "devops": "DevOps setup",
+        "maintenance": "Ongoing maintenance"
+      },
+      "pricing": "Custom pricing",
+      "timeline": "Project-based",
+      "cta": "Get Started"
+    },
+    "included": "What's included:",
+    "techStack": {
+      "title": "Technology Stack",
+      "subtitle": "Modern, reliable technologies for building scalable applications"
+    },
+    "process": {
+      "title": "Our Process",
+      "subtitle": "A streamlined approach to bring your project to life",
+      "discovery": {
+        "step": "01",
+        "title": "Discovery",
+        "description": "We discuss your goals, requirements, and vision for the project."
+      },
+      "design": {
+        "step": "02",
+        "title": "Design",
+        "description": "Creating wireframes and mockups that align with your brand."
+      },
+      "development": {
+        "step": "03",
+        "title": "Development",
+        "description": "Building your website with clean, maintainable code."
+      },
+      "launch": {
+        "step": "04",
+        "title": "Launch",
+        "description": "Testing, deployment, and ongoing support."
+      }
+    },
+    "cta": {
+      "badge": "Let's Build Something Great",
+      "title": "Ready to Get",
+      "titleHighlight": "Started?",
+      "subtitle": "Let's discuss your project and find the perfect solution for your business",
+      "button": "Contact Us",
+      "secondary": "View Pricing",
+      "stats": {
+        "projects": "Projects",
+        "years": "Years",
+        "support": "Support"
+      }
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Our",
+      "titleHighlight": "Portfolio",
+      "subtitle": "Showcasing successful projects we've delivered for amazing clients"
+    },
+    "filter": {
+      "all": "All",
+      "ecommerce": "E-commerce",
+      "webapp": "Web App",
+      "landing": "Landing Page"
+    },
+    "projects": {
+      "demo": "Demo",
+      "code": "Code",
+      "challenge": "Challenge",
+      "solution": "Solution",
+      "results": "Results",
+      "technologies": "Technologies",
+      "viewDemo": "View Live Demo",
+      "viewCode": "View Code"
+    },
+    "cta": {
+      "badge": "Join Our Success Stories",
+      "title": "Want Your Project",
+      "titleHighlight": "Here?",
+      "subtitle": "Let's create something amazing together and add your success to our portfolio",
+      "button": "Start Your Project",
+      "secondary": "Schedule Call",
+      "stats": {
+        "completed": "Completed",
+        "satisfaction": "Satisfaction",
+        "clients": "Happy Clients"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "greeting": "Hi, I'm",
+      "name": "Your Name",
+      "role": "Full-Stack Developer & Designer",
+      "description": "With 4+ years of experience crafting beautiful, functional websites and applications. I specialize in turning complex problems into simple, elegant solutions. Based in Mongolia, working with clients worldwide.",
+      "downloadCV": "Download CV",
+      "contactMe": "Contact Me"
+    },
+    "stats": {
+      "years": "Years Experience",
+      "clients": "Happy Clients",
+      "projects": "Projects Completed",
+      "coffee": "Cups of Coffee"
+    },
+    "skills": {
+      "title": "Skills & Expertise",
+      "subtitle": "Technologies and tools I work with daily"
+    },
+    "journey": {
+      "title": "My Journey",
+      "subtitle": "From beginner to professional developer",
+      "timeline": {
+        "2022": {
+          "year": "2022",
+          "title": "Started Freelancing",
+          "description": "Began taking on web development projects for local businesses"
+        },
+        "2023": {
+          "year": "2023",
+          "title": "Expanded Services",
+          "description": "Grew to offer full-stack development and e-commerce solutions"
+        },
+        "2024": {
+          "year": "2024",
+          "title": "Major Milestones",
+          "description": "Completed 30+ projects, launched SaaS products"
+        },
+        "2025": {
+          "year": "2025",
+          "title": "Agency Growth",
+          "description": "Scaled operations and added specialized services"
+        },
+        "2026": {
+          "year": "2026",
+          "title": "Current",
+          "description": "50+ successful projects delivered, continuous innovation"
+        }
+      }
+    },
+    "values": {
+      "title": "What I Believe In",
+      "subtitle": "Core principles that guide my work",
+      "clientFirst": {
+        "title": "Client-First Approach",
+        "description": "Your success is our success. We prioritize understanding your goals and delivering solutions that work."
+      },
+      "cleanCode": {
+        "title": "Clean Code",
+        "description": "Writing maintainable, scalable code that stands the test of time and is easy to extend."
+      },
+      "learning": {
+        "title": "Continuous Learning",
+        "description": "Staying updated with the latest technologies and best practices to deliver modern solutions."
+      },
+      "detail": {
+        "title": "Attention to Detail",
+        "description": "Every pixel, every interaction matters. We sweat the small stuff so you don't have to."
+      }
+    },
+    "tools": {
+      "title": "Tools I Use",
+      "subtitle": "My everyday development toolkit"
+    },
+    "cta": {
+      "badge": "Available for New Projects",
+      "title": "Let's Work",
+      "titleHighlight": "Together",
+      "subtitle": "Have a project in mind? I'd love to hear about it and help bring your vision to life",
+      "button": "Get in Touch",
+      "secondary": "Download CV",
+      "stats": {
+        "experience": "Years Exp",
+        "clients": "Clients",
+        "projects": "Projects"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in",
+      "titleHighlight": "Touch",
+      "subtitle": "Have a project in mind? Let's discuss how we can help bring your vision to life"
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "Feel free to reach out through any of these channels. I typically respond within 24 hours.",
+      "email": {
+        "title": "Email",
+        "value": "your@email.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+976 9999 9999"
+      },
+      "location": {
+        "title": "Location",
+        "value": "Ulaanbaatar, Mongolia"
+      },
+      "social": {
+        "title": "Social Media"
+      },
+      "response": {
+        "title": "Response Time",
+        "description": "I usually respond within 24 hours on business days. For urgent inquiries, please call directly."
+      }
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "Select a project type",
+      "projectTypes": {
+        "landing": "Landing Page",
+        "ecommerce": "E-commerce Website",
+        "webapp": "Web Application",
+        "fullstack": "Full-Stack Development",
+        "other": "Other"
+      },
+      "budget": "Budget Range",
+      "budgetPlaceholder": "Select your budget",
+      "budgetRanges": {
+        "500-1000": "$500 - $1,000",
+        "1000-2500": "$1,000 - $2,500",
+        "2500-5000": "$2,500 - $5,000",
+        "5000+": "$5,000+"
+      },
+      "message": "Project Details",
+      "messagePlaceholder": "Tell me about your project...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": {
+        "title": "Message Sent!",
+        "description": "Thank you for reaching out. I'll get back to you soon."
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Quick answers to common questions",
+      "q1": {
+        "question": "How long does a typical project take?",
+        "answer": "Project timelines vary based on complexity. A landing page takes 1-2 weeks, while a full e-commerce site takes 4-6 weeks."
+      },
+      "q2": {
+        "question": "What is your pricing model?",
+        "answer": "Pricing depends on project scope and requirements. After our initial consultation, I provide a detailed quote with milestones."
+      },
+      "q3": {
+        "question": "Do you provide ongoing support?",
+        "answer": "Yes! All projects include a warranty period, and I offer maintenance packages for ongoing updates and support."
+      },
+      "q4": {
+        "question": "Can you work with my existing design?",
+        "answer": "Absolutely! I can work with your designs or create new ones from scratch based on your brand guidelines."
+      }
+    },
+    "map": {
+      "title": "Ulaanbaatar, Mongolia",
+      "subtitle": "Map integration coming soon"
+    }
+  }
+}
